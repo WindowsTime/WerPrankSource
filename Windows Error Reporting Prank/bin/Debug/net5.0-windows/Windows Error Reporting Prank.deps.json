@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Windows Error Reporting Prank/1.0.0": {
+        "runtime": {
+          "Windows Error Reporting Prank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windows Error Reporting Prank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
